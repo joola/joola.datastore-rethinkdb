@@ -1,10 +1,9 @@
 {
   "name": "joola.datastore-rethinkdb",
   "preferGlobal": false,
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Joola <info@joo.la>",
   "description": "joola RethinkDB Datastore",
-  "engine": "node >= 0.10.x",
   "private": false,
   "repository": {
     "type": "git",
@@ -35,8 +34,5 @@
     "rethinkdb": "^1.15.0-0",
     "traverse": "^0.6.6",
     "underscore": "^1.6.0"
-  },
-  "engines": {
-    "node": "^0.10.*"
   }
 }
